@@ -1,2 +1,14 @@
 # n-hupu-archive
-HTML page archive and documentation
+
+页面文件整理目录
+
+本项目用于存档页面文件，便于长期保留和检查。
+
+## 文件用途
+
+- HTML 文件保存页面内容
+- README 记录仓库基本信息
+
+## 提交说明
+
+页面文件由程序提交，提交历史可作为变更记录参考。
